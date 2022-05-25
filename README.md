@@ -1,6 +1,7 @@
-# Interfaz
+## Interfaz
 
-### Proyecto Java  /  Java Application
+### Proyecto Java Application
 
-## Ejemplo de Clase interface y de como implementar sus métodos
+- #### Ejemplo de Clase interface 
+- #### Implementamos sus métodos
 
